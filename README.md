@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/shashwat2511">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat2511&hide=css,html&layout=compact" />
 </a>
+
+
 <a href="https://github.com/shashwat2511">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat2511&show_icons=true&hide=issues,contribs" />
 </a>
